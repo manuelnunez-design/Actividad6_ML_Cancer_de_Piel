@@ -10,7 +10,7 @@ El objetivo principal consiste en evaluar y validar diferentes algoritmos de cla
 
 ---
 
-# Objetivo SMART
+# Objetivo
 
 Desarrollar y evaluar modelos supervisados de Machine Learning capaces de clasificar lesiones cutáneas utilizando características clínicas y morfológicas, obteniendo un desempeño superior mediante métricas de clasificación y validando su capacidad de generalización mediante validación cruzada estratificada, análisis ROC-AUC y pruebas estadísticas.
 
@@ -167,6 +167,6 @@ Este tipo de modelos puede contribuir como herramienta de apoyo al proceso diagn
 
 **Jesús Manuel Núñez López**
 
-Materia: **Evaluación y Validación de Modelos de Machine Learning**
+Materia: **Gestión de Proyectos de Inteligencia Artificial**
 
-Proyecto académico – 2026.
+Actividad 6 – Junio 2026.
